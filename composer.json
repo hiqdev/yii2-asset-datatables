@@ -4,6 +4,7 @@
     "description": "Yii 2 asset for DataTables jQuery plugin",
     "keywords": [
         "DataTables",
+        "asset",
         "extension",
         "yii2"
     ],
