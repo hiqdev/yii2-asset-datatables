@@ -1,8 +1,9 @@
 hiqdev/yii2-asset-datatables commits history
 --------------------------------------------
 
-## Under development
+## 1.10.8 2016-03-29
 
+    - cedb084 2016-03-29 rehideved (sol@hiqdev.com)
     - 7d75b89 2016-03-29 added hiqdev/composer-asset-plugin compatibility (sol@hiqdev.com)
 
 ## 1.10.7 2015-05-22
