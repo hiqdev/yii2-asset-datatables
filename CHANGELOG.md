@@ -1,6 +1,10 @@
 hiqdev/yii2-asset-datatables changelog
 --------------------------------------
 
+## 1.10.9 2016-03-29
+
+- Fixed bower package to `drmonty-datatables-plugins`
+
 ## 1.10.8 2016-03-29
 
 

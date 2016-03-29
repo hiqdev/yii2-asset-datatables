@@ -1,6 +1,12 @@
 hiqdev/yii2-asset-datatables commits history
 --------------------------------------------
 
+## 1.10.9 2016-03-29
+
+- Fixed bower package to `drmonty-datatables-plugins`
+    - 490f6d6 2016-03-29 php-cs-fixed (sol@hiqdev.com)
+    - 8fc5f8c 2016-03-29 fixed bower pathes and moved to src (sol@hiqdev.com)
+
 ## 1.10.8 2016-03-29
 
     - cedb084 2016-03-29 rehideved (sol@hiqdev.com)
