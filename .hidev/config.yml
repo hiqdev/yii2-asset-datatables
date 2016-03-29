@@ -1,0 +1,10 @@
+package:
+    type:           yii2-extension
+    name:           yii2-asset-datatables
+    title:          Yii2 asset for DataTables jQuery plugin
+    headline:       Yii2 DataTables Plugin
+    keywords:       DataTables, asset, extension, yii2
+
+require:
+    hiqdev/hidev-php:    "*"
+    hiqdev/hidev-vendor: "*"

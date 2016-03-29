@@ -1,14 +1,14 @@
 {
     "name": "hiqdev/yii2-asset-datatables",
     "type": "yii2-extension",
-    "description": "Yii 2 asset for DataTables jQuery plugin",
+    "description": "Yii2 asset for DataTables jQuery plugin",
     "keywords": [
         "DataTables",
         "asset",
         "extension",
         "yii2"
     ],
-    "homepage": "https://hiqdev.com/yii2-asset-datatables",
+    "homepage": "https://github.com/hiqdev/yii2-asset-datatables",
     "license": "BSD-3-Clause",
     "support": {
         "email": "support@hiqdev.com",
@@ -22,7 +22,7 @@
             "name": "Andrii Vasyliev",
             "role": "Project lead",
             "email": "sol@hiqdev.com",
-            "homepage": "https://hipanel.com/"
+            "homepage": "http://hipanel.com/"
         },
         {
             "name": "Dmitry Naumenko",
@@ -34,13 +34,13 @@
             "name": "Andrey Klochok",
             "role": "Lead frontend developer",
             "email": "tafid@hiqdev.com",
-            "homepage": "https://hiqdev.com/"
+            "homepage": "http://hiqdev.com/"
         },
         {
             "name": "Yuriy Myronchuk",
             "role": "QA Lead",
             "email": "bladeroot@hiqdev.com",
-            "homepage": "https://hiqdev.com/"
+            "homepage": "http://hiqdev.com/"
         }
     ],
     "require": {
@@ -49,7 +49,7 @@
     },
     "autoload": {
         "psr-4": {
-            "hiqdev\\assets\\datatables\\": ""
+            "hiqdev\\assets\\datatables\\": "src"
         }
     },
     "extra": {

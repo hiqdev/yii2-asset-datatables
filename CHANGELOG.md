@@ -1,7 +1,14 @@
 hiqdev/yii2-asset-datatables changelog
 --------------------------------------
 
-### 0.1.0 under development
+## Under development
 
-- inited
+
+## 1.10.7 2015-05-22
+
+
+## 1.10.7.1 2015-05-24
+
+
+## Development started 2015-05-22
 
