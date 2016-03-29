@@ -1,5 +1,14 @@
 <?php
 
+/*
+ * Yii2 asset for DataTables jQuery plugin
+ *
+ * @link      https://github.com/hiqdev/yii2-asset-datatables
+ * @package   yii2-asset-datatables
+ * @license   BSD-3-Clause
+ * @copyright Copyright (c) 2015-2016, HiQDev (http://hiqdev.com/)
+ */
+
 namespace hiqdev\assets\datatables;
 
 /**
@@ -8,26 +17,26 @@ namespace hiqdev\assets\datatables;
 class BootstrapDataTablesAsset extends \yii\web\AssetBundle
 {
     /**
-     * @inheritdoc
-     */
+      * {@inheritdoc}
+      */
      public $sourcePath = '@bower/drmonty-datatables-plugins';
 
     /**
-     * @inheritdoc
+     * {@inheritdoc}
      */
     public $css = [
         'integration/bootstrap/3/dataTables.bootstrap.css',
     ];
 
     /**
-     * @inheritdoc
+     * {@inheritdoc}
      */
     public $js = [
 //      'integration/bootstrap/3/dataTables.bootstrap.min.js',
     ];
 
     /**
-     * @inheritdoc
+     * {@inheritdoc}
      */
     public $depends = [
         'yii\bootstrap\BootstrapAsset',
