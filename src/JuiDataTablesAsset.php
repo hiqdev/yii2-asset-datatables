@@ -1,9 +1,4 @@
 <?php
-/**
- * @link      http://hiqdev.com/yii2-asset-datatables
- * @license   BSD 3-clause
- * @copyright Copyright (c) 2015 HiQDev
- */
 
 namespace hiqdev\assets\datatables;
 
@@ -15,7 +10,7 @@ class JuiDataTablesAsset extends \yii\web\AssetBundle
     /**
      * @inheritdoc
      */
-     public $sourcePath = '@bower/datatables-plugin';
+     public $sourcePath = '@bower/drmonty-datatables-plugin';
 
     /**
      * @inheritdoc
