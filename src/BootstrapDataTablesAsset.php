@@ -16,30 +16,10 @@ namespace hiqdev\assets\datatables;
  */
 class BootstrapDataTablesAsset extends \yii\web\AssetBundle
 {
-    /**
-      * {@inheritdoc}
-      */
-     public $sourcePath = '@bower/drmonty-datatables-plugins';
-
-    /**
-     * {@inheritdoc}
-     */
-    public $css = [
-        'integration/bootstrap/3/dataTables.bootstrap.css',
-    ];
-
-    /**
-     * {@inheritdoc}
-     */
-    public $js = [
-//      'integration/bootstrap/3/dataTables.bootstrap.min.js',
-    ];
-
-    /**
-     * {@inheritdoc}
-     */
+    public $sourcePath = '@bower/drmonty-datatables-plugins/integration';
+    public $css = ['bootstrap/3/dataTables.bootstrap.css'];
     public $depends = [
         'yii\bootstrap\BootstrapAsset',
-//      'yii\bootstrap\BootstrapPluginAsset',
+        'yii\bootstrap\BootstrapPluginAsset',
     ];
 }
